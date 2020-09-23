@@ -1,0 +1,6 @@
+C:\Users\Miguel Gutierrez\Documents\Cenfotec\8 Cuatri\Componentes\Lab1C#\ControlWindows\ControlWindows\bin\Debug\ControlWindows.dll
+C:\Users\Miguel Gutierrez\Documents\Cenfotec\8 Cuatri\Componentes\Lab1C#\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+C:\Users\Miguel Gutierrez\Documents\Cenfotec\8 Cuatri\Componentes\Lab1C#\ControlWindows\ControlWindows\obj\Debug\ControlWindows.UserControl1.resources
+C:\Users\Miguel Gutierrez\Documents\Cenfotec\8 Cuatri\Componentes\Lab1C#\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+C:\Users\Miguel Gutierrez\Documents\Cenfotec\8 Cuatri\Componentes\Lab1C#\ControlWindows\ControlWindows\obj\Debug\ControlWindows.dll
+C:\Users\Miguel Gutierrez\Documents\Cenfotec\8 Cuatri\Componentes\Lab1C#\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb
